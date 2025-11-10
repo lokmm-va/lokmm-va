@@ -1,17 +1,28 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRwZ3YxamNzY2UxZXFwMTFyOTU5ODAwdWRmeWpsN2RiZnpzMzFqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduQAsYcJKQH2XsI/giphy.gif" align="center">
 # Hi there 👋
 
-<!--
-**lokmm-va/lokmm-va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий веб-разработчик, увлечённый созданием современных и удобных веб-сайтов. Учусь каждый день, чтобы писать чистый, эффективный и красивый код.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Чем занимаюсь
+
+- Изучаю **HTML**, **CSS**, **JavaScript**
+- Пробую себя в **React** и **TypeScript**
+- Постепенно осваиваю **адаптивную и доступную вёрстку**
+
+---
+
+### 📚 Сейчас учусь
+
+- Читаю документацию и статьи на MDN, freeCodeCamp, Dev.to
+- Делаю мини-проекты для портфолио
+
+---
+
+## 💡 Мои цели
+
+- Научиться создавать полноценные веб-приложения
+- Получить первую работу или стажировку в сфере front-end разработки
+
+---
